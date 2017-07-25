@@ -1,0 +1,12 @@
+{
+    "method": "xor",
+    "key": "adfb543refdgh45635tgdgdfghr*&GJHJHT^%&^TVJHBjhI(*JHyJGUY*",
+    "local": {
+        "host": "0.0.0.0",
+        "port": 3001
+    },
+    "remote": {
+        "host": "x.x.x.x",
+        "port": 8888
+    }
+}

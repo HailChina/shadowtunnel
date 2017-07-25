@@ -1,0 +1,17 @@
+{
+  "name": "shadowtunnel",
+  "version": "1.0.0",
+  "description": "Encrypted port forwarding tunnel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "encrypt",
+    "port-forwarding",
+    "proxy"
+  ],
+  "author": "xiaozhuai",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
